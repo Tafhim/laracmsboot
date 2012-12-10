@@ -1,4 +1,4 @@
-## Laravel Bootstrap
+## Simple CMS using Laravel backend and Bootstrap frontend
 
 I used to have a CodeIgniter bootstrap framework that dealt with basic CRUD stuff, news articles, image galleries, users, permissions etc. All based on the amazing Laravel framework.
 
@@ -8,7 +8,7 @@ I used to have a CodeIgniter bootstrap framework that dealt with basic CRUD stuf
 - User Management
 - Role Management
 - Help and Support (sends an email from a form in the backend)
-- Gallery and Images (not implemented yet, database structure built)
+- Gallery and Images
 - Setup Of Database and User Automatic
 
 ### Setting Up The Database
@@ -22,7 +22,7 @@ I used to have a CodeIgniter bootstrap framework that dealt with basic CRUD stuf
 
 Things in here are unfinished and a lot of it is undocumented. I've done most of what I can and there will be lots of bugs. This is just a starting point for what I'm hoping will turn into a nice bootstrap for plonking into a new client's website or even your own.
 
-### Contributing to Laravel Bootstrap
+### Contributing to Laravel Bootstrap CMS
 
 Contributions are encouraged and welcome. All commits must be signed off using the "-s" switch.
 
