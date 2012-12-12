@@ -20,7 +20,7 @@ class Admin_Controller extends Base_Controller {
      * Checks to see if the user is logged in. If they aren't we get redirected to the login page
      * @return header redirect
      */
-	public function auth(){
+    public function auth(){
     	if (Auth::guest()) return Redirect::to('admin/login');
     }
 
