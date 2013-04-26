@@ -70,9 +70,9 @@ return array(
 		'mysql' => array(
 			'driver'   => 'mysql',
 			'host'     => 'localhost',
-			'database' => 'laravelbootstrap',
-			'username' => 'laravelbootstrap',
-			'password' => 'laravelbootstrap',
+			'database' => 'lara32_db',
+			'username' => 'root',
+			'password' => 'tafhim',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 		),
